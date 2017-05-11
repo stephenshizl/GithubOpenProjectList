@@ -13,3 +13,10 @@ Android-architecture
 
 Lubran
 	图片压缩库 https://github.com/Curzibn/Luban
+
+动画
+	https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout
+
+Fragmentation
+		https://github.com/YoKeyword/Fragmentation
+	采用多个 Activity + 多个 Fragment 模式，解决 Fragment 在 hide, show 等调用下的 Bug.
